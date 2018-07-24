@@ -1,180 +1,156 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgdi0NDGpYvZLsKX2vGa90nLfS8.jpg" group-title="Terror",Jogos Mortais: Jigsaw (2017)
-https://archive.org/download/FilmeJogosMortaisJigsaw/filme%20%20%20Jogos%20Mortais%20jigsaw.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qh1oIum9hGj0J6PbszMiTkNfZE.jpg" group-title="Terror",O Chamado 3 (2017)
-https://archive.org/download/O.Chamado.3.2017.1080p.BluRay.x264.DUBLADOBLUDV/O.Chamado.3.2017.1080p.BluRay.x264.DUBLADO-BLUDV.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bj24DqgxSksdfpCZECOXRRcODnb.jpg" group-title="Ação",Deus da Guerra (2017)
-https://archive.org/download/Deus.da.Guerra.2018.1080p.BRRip.x264.DUALBL/Deus.da.Guerra.2018.1080p.BRRip.x264.DUAL-BL.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZsUll0FsaQ9caL63oHVpiowxhO.jpg" group-title="Ficção",Planeta dos Macacos: A Guerra (2017)
-https://archive.org/download/2017Planeta.dos.Macacos.A.Guerra/2017-Planeta.dos.Macacos.A.Guerra.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJ71RfhwvnvmXPWJRJDLbtaJwBH.jpg" group-title="Ficção",A Torre Negra (2017)
-https://archive.org/download/A.Torre.Negra.2017.1080p.BRRip.6CH.x264.DUALBL/A.Torre.Negra.2017.1080p.BRRip.6CH.x264.DUAL-BL.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJGOHtw2QLwaNhT0xzpCPa0RYCm.jpg" group-title="Animação",Meu Malvado Favorito 3 (2017)
-https://archive.org/download/Meu.Malvado.Favorito.3/Meu.Malvado.Favorito.3.2017.1080p.BRRip.X264-AMIABLE.DUAL-DAVI.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg" group-title="Ficção",Blade Runner 2049 (2017)
-https://archive.org/download/Blade.Runner.2049.2017.720p.HDRip.x264Line.DUBLADO/Blade.Runner.2049.2017.720p.HDRip.x264-Line.DUBLADO-.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg" group-title="Aventura",Homem-Aranha: De Volta ao Lar (2017)
-https://archive.org/download/HomemAranha.De.Volta.Ao.Lar.2017.720p.BRRip.x264SPARKS.DUALDAVI/Homem-Aranha.De.Volta.Ao.Lar.2017.720p.BRRip.x264-SPARKS.DUAL-DAVI.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXi3ExbRXnZCPbdHQkppQdcdMUF.jpg" group-title="Aventura",Guardiões da Galáxia Vol. 2 (2017)
-https://archive.org/download/Guardies.da.GalxiaVol.2.2017.720p.BRRipDualDAVI/Guardi%C3%B5es.da.Gal%C3%A1xiaVol.2.2017.720p.BRRip-Dual-DAVI.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOtoPe5T0WEBTUPrgEKvfCgPicb.jpg" group-title="Terror",A Maldição da Casa Winchester (2018)
-https://archive.org/download/Filmes3/AMaldioDaCasaWinchesterFormigatv.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXnbUMsMovMEQWfpMybOLZR0IiI.jpg" group-title="Comédia",Com Amor, Simon (2018)
-https://archive.org/download/Filmes3/Com.amor.simon.Formigatv.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooeyCPepghIobLfd8bijHepSWgR.jpg" group-title="Suspense",Operação Red Sparrow (2018)
-https://archive.org/download/Filmes3/Operao.red.sparrowFormigatv.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zW1SQz3lDTxzAaYwpexsjlFO0no.jpg" group-title="Ficção",Pantera Negra (2018)
-https://archive.org/download/Filmes3/Pantera.negraFormigatv.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYf02uVwiXdUEQVX9TuIizQIdHA.jpg" group-title="Drama",15h17 - Trem Para Paris (2018)
-https://archive.org/download/FilmesFormiga2/15h17.trem.para.parisFormigatv.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUMewf9StOHslndCzMMcyH3fONB.jpg" group-title="Aventura",Vingadores: Guerra Infinita (2018)
-https://archive.org/download/FilmesFormiga2/Avengers.infinity.waFormigatv.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3HAaPWkqQGfVz3Sn9ynE3t2t93.jpg" group-title="Ação",Covil de Ladrões (2018)
-https://archive.org/download/FilmesFormiga2/Covil.de.ladroesFormigatv.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upURIW6jeEcTJKpaJeoNw5jbcr1.jpg" group-title="Drama",Acrimônia (2018)
-https://archive.org/download/Filmes4/Acrimonia.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OemqmvthXswt5KFmtXBCMMloJ4.jpg" group-title="Comédia",Alex Strangelove (2018)
-https://archive.org/download/Filmes4/AlexStrangelove.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3h9Flvs0h6aLOFH0s2z2W6Y4uGf.jpg" group-title="Drama",Cinquenta Tons de Liberdade (2018)
-https://archive.org/download/Cinquenta.Tons.de.Liberdade-FORMIGAtv/Cinquenta.Tons.de.Liberdade-FORMIGAtv.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8BrYR42REzSTXPPifu7SmzCvSo.jpg" group-title="Drama",A Forma da Água (2017)
-https://archive.org/download/AFormaDaguaFormigatv/AFormaDaguaFormigatv.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7v0xwwRBk44q2BGPTwiX6BtmURr.jpg" group-title="Comédia",A Escolha Perfeita (2016)
-https://archive.org/download/A.Escolha.Perfeita.FORMIGAtv/A.Escolha.Perfeita.FORMIGAtv.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1ViCmMtBwK68zUbsRPrCghHD1x.jpg" group-title="Aventura",Jumanji: Bem-Vindo à Selva (2017)
-https://archive.org/download/JumanjiBemVindoSelvaFormigaTV/Jumanji%20Bem%20Vindo%20%C3%A0%20Selva%20-FormigaTV.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rYTtQ14rPB3KOgk5TjkUqiQFch.jpg" group-title="Ação",Em Ritmo De Fuga (2017)
-https://archive.org/download/JumanjiBemVindoSelvaFormigaTV/Em%20Ritmo%20de%20Fuga%20-%20FormigaTV.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jmobU7W4G25dMHCanyaihTsUmh.jpg" group-title="Drama",Mudbound - Lágrimas Sobre o Mississipi (2017)
-https://archive.org/download/JumanjiBemVindoSelvaFormigaTV/Mudbound%20L%C3%A1grimas%20Sobre%20o%20Mississippi%20-%20FormigaTVCOM.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZbZppy5tXYVE6CP9tB9IaVlJLw.jpg" group-title="Animação",O Touro Ferdinando (2017)
-https://archive.org/download/JumanjiBemVindoSelvaFormigaTV/O%20Touro%20Ferdinando%20-%20FormigaTV.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sA8kJ43Y9HCysAfLp14KNa3UeXJ.jpg" group-title="Comédia",Querido Ditador (2018)
-https://archive.org/download/JumanjiBemVindoSelvaFormigaTV/Querido%20Ditador%20-%20FormigaTV.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epvRtYmscoCPEQ4DLtzr2o6TuL1.jpg" group-title="Animação",Gnomeu e Julieta: O Mistério do Jardim
-https://archive.org/download/JumanjiBemVindoSelvaFormigaTV/Sherlock%20Gnomes%20e%20o%20Mist%C3%A9rio%20do%20Jardim%20-%20FormigaTV.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5IpGz6M2QiH4MMWsVj4rfO6iyF.jpg" group-title="Aventura",Liga da Justiça (2017)
-https://archive.org/download/FilmeLigaDaJustia/Filme%20-%20Liga%20da%20Justi%C3%A7a.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgCnjIroZsrkfNytSpN8I8IEufJ.jpg" group-title="Comédia",A Espiã que Sabia de Menos (2015)
-https://archive.org/download/A.espia.que.sabia.de.menos.sem.cortes.2015.DUB.BaixarerieMP4.com/A.espia.que.sabia.de.menos.sem.cortes.2015.DUB.BaixarerieMP4.com.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yU7JAjDKzah10hqiORVScF3v7d.jpg" group-title="Comédia",Te Pego na Saída (2017)
-https://archive.org/download/A.espia.que.sabia.de.menos.sem.cortes.2015.DUB.BaixarerieMP4.com/Te.Pego.na.Sa%C3%ADda.2017.MP4.DUB.BaixarSeriesMP4.Com.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZoasreqTOrqKzQLGhlgJrsM6Cg.jpg" group-title="Clássicos",Rocky 3: O Desafio Supremo (1982)
-https://archive.org/download/Rocky3ODesafioSupremo1982BDrip720pDubladoDat2014/Rocky%203%20-%20O%20Desafio%20Supremo%20(1982)%20BDrip%20720p%20Dublado%20dat2014.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zusApsyQcUjqbjjEeyxC5VXhhAC.jpg" group-title="Clássicos",O Garoto do Futuro (1985)
-https://archive.org/download/OGarotoDoFuturo1985BRripBluRay720pDubladoDat2015/O%20Garoto%20do%20Futuro%20(1985)%20BRrip%20Blu-Ray%20720p%20Dublado%20Dat2015.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVJIyS2gh0hBvVEr8s9SrpSBTxL.jpg" group-title="Clássicos",O Rapto do Menino Dourado (1986)
-https://archive.org/download/ORaptoDoMeninoDourado1986BDrip720pDubladoDat2014/O%20Rapto%20do%20Menino%20Dourado%20(1986)%20BDrip%20720p%20Dublado%20dat2014.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwkjM7xK70Hjp2fvlVTox4wSgWo.jpg" group-title="Clássicos",Rocky 2: A Revanche (1979)
-https://archive.org/download/Rocky2ARevanche1979BDrip720pDubladoDat2014/Rocky%202%20-%20A%20Revanche%20(1979)%20BDrip%20720p%20Dublado%20dat2014.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ju5rkPRSQZ6NDf3x9OeHmzTm4mg.jpg" group-title="Clássicos",Top Gang! - Ases Muito Loucos (1991)
-https://archive.org/download/TopGangAsesMuitoLoucos1991Dublado720p/Top%20Gang%20-%20Ases%20Muito%20Loucos%20(1991)%20-%20Dublado%20720p.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAZGgB2CwKsHSoPLtXO6dkGs7iO.jpg" group-title="Clássicos",Comando Para Matar (1985)
-https://archive.org/download/ComandoParaMatar1985BDrip720pDubladoDat2014/Comando%20Para%20Matar%20(1985)%20BDrip%20720p%20Dublado%20dat2014.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugEhnQnD1NwoV77oAJVrpUQLEu8.jpg" group-title="Clássicos",Cemitério Maldito (1989)
-https://archive.org/download/CemitrioMaldito1989BDRip720pDublado/Cemit%C3%A9rio%20Maldito%20(1989)%20-%20BDRip%20720p%20-%20Dublado.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFM0AqN3ZfLF0ErzF4veLchTyyI.jpg" group-title="Clássicos",Um Dia de Fúria (1993)
-https://archive.org/download/UmDiaDeFria1993BDrip720pDubladoDat2014/Um%20Dia%20de%20F%C3%BAria%20(1993)%20BDrip%20720p%20Dublado%20dat2014.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgnUGRq88H3uxz1Gj7vpEp6EQgT.jpg" group-title="Terror",A Maldição de Chucky (2013)
-https://archive.org/download/AMaldicaoDeChucky/A%20Maldi%C3%A7%C3%A3o%20de%20Chucky.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXrXnJUB7M4MU9PaXxssmZnsmWw.jpg" group-title="Ação",007 Contra Spectre (2015)
-https://archive.org/download/007ContraSpectre/007_%20Contra%20Spectre.MP4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPEECSo5ZOBr9oEmBLSVXcqndTO.jpg" group-title="Clássicos",Meus Vizinhos São um Terror (1989)
-https://archive.org/download/MeusVizinhosSoUmTerror/Meus%20Vizinhos%20S%C3%A3o%20Um%20Terror.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYf02uVwiXdUEQVX9TuIizQIdHA.jpg" group-title="Lançamentos",15h17 - Trem Para Paris (2018)
-https://archive.org/download/15h17.Trem.Para.Paris.2018.720p.BluRay.H264.DUBLADO.HD7/15h17.Trem.Para.Paris.2018.720p.BluRay.H264.DUBLADO.HD7.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiiyh02DvmfoIJYZFHE3CJren50.jpg" group-title="Lançamentos",12 Heróis (2018)
-https://archive.org/download/12.Heris.2018.720p.BluRay.6CH.x264.DUALWWW.BLUDV.COM/12.Her%C3%B3is.2018.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/k5Qstk" group-title="Documentário",NATGEO : MEGA FABRICAS - CERVEJARIA CORONA
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onQTiwGNXr46bq2R39JIIAy26fu.jpg" group-title="Guerra",12 HERÓIS
+https://archive.org/download/Movies_201807/12%20Heróis.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYf02uVwiXdUEQVX9TuIizQIdHA.jpg" group-title="Drama",15H17 - TREM PARA PARIS
+https://archive.org/download/Movies_201807/15h17%20-%20Trem%20para%20Paris.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81RColr4rau6DZ7z9eMsksokcfk.jpg" group-title="Ação",211 - O GRANDE ASSALTO
+https://archive.org/download/Movies_201807/211%20-%20O%20Grande%20Assalto.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c68Y5spjMirD081GMV6z29RtyEN.jpg" group-title="Terror",60 MINUTOS PARA MORRER
+https://archive.org/download/Movies_201807/60%20Minutos%20para%20Morrer.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68ot38BwgfZjkIYRiuvXCtKDxCL.jpg" group-title="Animação",A ABELHINHA MAYA
+https://archive.org/download/Movies_201807/A%20Abelhinha%20Maya.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9RZQKx4wXx6ew4cgFcdohV8iZN.jpg" group-title="Comédia",A BARRACA DO BEIJO
+https://archive.org/download/Movies_201807/A%20Barraca%20do%20Beijo.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgP1VrDPxdfR1DUX3JMNrfajx4I.jpg" group-title="Comédia",A CULPA NÃO É DO CARMA
+https://archive.org/download/Movies_201807/A%20Culpa%20Não%20é%20do%20Carma.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kudgA66DV7q66eAyC9h6PVIiAPj.jpg" group-title="Comédia",A ESCALA – AMIZADE EM SEGUNDO LUGAR
+https://archive.org/download/Movies_201807/A%20Escala%20–%20Amizade%20Em%20Segundo%20Lugar.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg" group-title="Drama",A FORMA DA ÁGUA
+https://archive.org/download/Movies_201807/A%20Forma%20da%20Água.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nt7sO8XjeTOrUhdcfnIPsdPFeLk.jpg" group-title="Drama",A GRANDE JOGADA
+https://archive.org/download/Movies_201807/A%20Grande%20Jogada.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOtoPe5T0WEBTUPrgEKvfCgPicb.jpg" group-title="Terror",A MALDIÇÃO DA CASA WINCHESTER
+https://archive.org/download/Movies_201807/A%20Maldição%20da%20Casa%20Winchester.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDJD1L2L4Hy1APzSiZcEJDjvgAC.jpg" group-title="",A MELHOR ESCOLHA
+https://archive.org/download/Movies_201807/A%20Melhor%20Escolha.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXHapFkuxLEq9ZILxw1Vbarqxb4.jpg" group-title="Drama",A MÚSICA DO SILÊNCIO
+https://archive.org/download/Movies_201807/A%20Música%20do%20Silêncio.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qexDkVYcoJMP9YguYw3ej1Xud3U.jpg" group-title="Animação",A ORIGEM DOS GUARDIÕES
+https://archive.org/download/Movies_201807/A%20Origem%20dos%20Guardiões.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljktBZh0wM8yVZcgMt3i43sjkdy.jpg" group-title="Animação",A PRINCESA ENCANTADA - UM MISTERIO REAL
+https://archive.org/download/Movies_201807/A%20Princesa%20Encantada%20-%20Um%20Misterio%20Real.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abHDJoNxU4N1Fzm43CP7EMu4tEb.jpg" group-title="Ficção científica",A REPARTIÇÃO DO TEMPO
+https://archive.org/download/Movies_201807/A%20Repartição%20do%20Tempo.mp4
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",NATGEO : MEGA FABRICAS - CERVEJARIA CORONA
 https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiWTlEbnhhLWRvT00?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
-
-#EXTINF:-1 tvg-logo="https://goo.gl/k5Qstk" group-title="Documentário",NATGEO : MEGA FABRICAS - CERVEJA GUINNESS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",NATGEO : MEGA FABRICAS - CERVEJA GUINNESS
 https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiM0JWamtNcjdSZXM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - ASTRONOMIA 
+https://lh3.googleusercontent.com/XyVZy5KOwMh98_4xOt_EmVw0VwmW_xCOaZLltEeZ4aMUyqSIw9-lU2VACKJT-oB3cNjyevQVUgVhF60FLuvmVgSmvsJJ10W8mw=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - BIOLOGIA 
+https://lh3.googleusercontent.com/G1t_WjBZgvTwHhDOhbpnML9mQ0tc9E8z18-3VWRlFwfXZGIoKs5EyEP8I6CqhFlYg_gALs7GHiEOIaCjAl32TiCQEbYeYqvJtg=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - FISICA 
+https://lh3.googleusercontent.com/7y2jtXP3O_4iDSjteoLyI3tZlN7CB9TUCl65yPFzuXCNtLbNKG7rBQse4YGBXaKk3m0bu3tiyOMhGFHZKD122xIkLpDDTVNPCA=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - FISICA
+https://lh3.googleusercontent.com/7y2jtXP3O_4iDSjteoLyI3tZlN7CB9TUCl65yPFzuXCNtLbNKG7rBQse4YGBXaKk3m0bu3tiyOMhGFHZKD122xIkLpDDTVNPCA=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - GENETICA 
+https://lh3.googleusercontent.com/d8SZrRvLUBwjX6KgU1RrhdmtP4z220USFzEFLvJdXMdkyeXPyXBhhJKm5Cq7c9Ba-7g97mkTyKB9C909a5HhRicZAAc3NdsB6g=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - MEDICINA 
+https://lh3.googleusercontent.com/0oYsbhe1QZNKsX6SJB0WcC_UkS9wU0TtzLOmKpDYKKoyqowxFcPFqApNsafVinkexj06D1K0y8zqrdZXJjajYt14-DQmGAdZOA=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - QUIMICA 
+https://lh3.googleusercontent.com/OqhC2s4FoaWv7U6HQEd_9Z4Uclh4porFzxuZThf6ByStQJoSRm1ZDHfgzP8RupQCCBz_craD9yjelimJrbvoGPmTcbhqQUl6TQ=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - QUIMICA
+https://lh3.googleusercontent.com/OqhC2s4FoaWv7U6HQEd_9Z4Uclh4porFzxuZThf6ByStQJoSRm1ZDHfgzP8RupQCCBz_craD9yjelimJrbvoGPmTcbhqQUl6TQ=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - EPISODIO FINAL 
+https://lh3.googleusercontent.com/QCC9vmxV0KGurcdkGsfNXQPFdZ9Gqf31ZwIajSPuIgqfnpBG5xKR6Ls_bTBZ3Ab8qC6fP6PRszi6OBJO-qq645hSxeNcbgEmaA=m18
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",TITANIC - MISTERIO RESOLVIDO SD
+https://lh3.googleusercontent.com/lwAAwICj8CL_HePxtNWNazvGku8hru32iYCGPYhvx44mbiPgjnQl5kARy_9HeFPwmVGUO4S0HhG6Zg=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",TITANIC - MISTERIO RESOLVIDO HD 
+https://lh3.googleusercontent.com/lwAAwICj8CL_HePxtNWNazvGku8hru32iYCGPYhvx44mbiPgjnQl5kARy_9HeFPwmVGUO4S0HhG6Zg=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",OBJETIVO BIN LADEN SD
+https://lh3.googleusercontent.com/wt7ui4sd3qP55-xoydszZxaRS4ehU_Mgx8Y5-bMTUWoyKB7WUGvkB66lGgW8shD0KXf6cPWSqj9CPw=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",OBJETIVO BIN LADEN HD 
+https://lh3.googleusercontent.com/wt7ui4sd3qP55-xoydszZxaRS4ehU_Mgx8Y5-bMTUWoyKB7WUGvkB66lGgW8shD0KXf6cPWSqj9CPw=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",MISTERIO DO TRIANGULO DAS BERMUDAS SD
+https://lh3.googleusercontent.com/t5QeGkowqch2N3a21kJWt3j5QIj9iOsKUayKlJELkF0Tk-lQIMgFaYVBCqAl5LFAYIZt63q0y2M6_w=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",MISTERIO DO TRIANGULO DAS BERMUDAS HD 
+https://lh3.googleusercontent.com/t5QeGkowqch2N3a21kJWt3j5QIj9iOsKUayKlJELkF0Tk-lQIMgFaYVBCqAl5LFAYIZt63q0y2M6_w=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - DUBAI SD
+https://lh3.googleusercontent.com/t9Zzo-mt072h12kz0T9doAckmqsgBb91qfCiqoNK7b6gg4QiRCvKi06VXH1lqPbKt_12pE4F6cnMwVwXOw=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - DUBAI HD 
+https://lh3.googleusercontent.com/t9Zzo-mt072h12kz0T9doAckmqsgBb91qfCiqoNK7b6gg4QiRCvKi06VXH1lqPbKt_12pE4F6cnMwVwXOw=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - AUSTRIA SD
+https://lh3.googleusercontent.com/ezcinnOVUPU4CZnyKHZZ4SGta0roxqmP5vWZ5baur2jQmB7byt8-Mi_q615w8VZ1hjkri7shd_A1lKdPfg=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - AUSTRIA HD 
+https://lh3.googleusercontent.com/ezcinnOVUPU4CZnyKHZZ4SGta0roxqmP5vWZ5baur2jQmB7byt8-Mi_q615w8VZ1hjkri7shd_A1lKdPfg=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - CARIBE SD
+https://lh3.googleusercontent.com/x_DOAxXVyGLr9Ro7eQeKiJWnbTfNTHmeGRSek--G62H4y6aJEuuRzl2yJOQy72ozIqbzn9S_S2ILXFWBVA=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - CARIBE HD 
+https://lh3.googleusercontent.com/x_DOAxXVyGLr9Ro7eQeKiJWnbTfNTHmeGRSek--G62H4y6aJEuuRzl2yJOQy72ozIqbzn9S_S2ILXFWBVA=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - ILHAS CAYMAN SD
+https://lh3.googleusercontent.com/VJIaa7cvqcvDU3GNrx-vXxJNn2BcT0OaoHf2CLHUG_AJKEK042801WKKzHIKFCdTNeBZJEzDyKvY9ar5Vg=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - ILHAS CAYMAN HD 
+https://lh3.googleusercontent.com/VJIaa7cvqcvDU3GNrx-vXxJNn2BcT0OaoHf2CLHUG_AJKEK042801WKKzHIKFCdTNeBZJEzDyKvY9ar5Vg=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - ESCANDINAVIA SD
+https://lh3.googleusercontent.com/3gx6ZdsmSjWtzmn1T_VWGMQEeGp8db9hJPKb468opubJ2Ce4gMTIBVFb1apRJOWzgJvj1EJpTc-j0vfCkA=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - ESCANDINAVIA HD 
+https://lh3.googleusercontent.com/3gx6ZdsmSjWtzmn1T_VWGMQEeGp8db9hJPKb468opubJ2Ce4gMTIBVFb1apRJOWzgJvj1EJpTc-j0vfCkA=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - MADAGASCAR SD
+https://lh3.googleusercontent.com/3pB5mbNfpgCF2W52pBCRWO2R75dMlKL5mBqs6d7jwTkWnpQfS18mMpwnG8gMo7W8_TJovoBaJ9VawhysXQ=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - MADAGASCAR HD 
+https://lh3.googleusercontent.com/3pB5mbNfpgCF2W52pBCRWO2R75dMlKL5mBqs6d7jwTkWnpQfS18mMpwnG8gMo7W8_TJovoBaJ9VawhysXQ=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - ESCOCIA SD
+https://lh3.googleusercontent.com/0eVWjay79-9jX4Pmf10yw3MJuvpGBX9-eYcEjn0bml7W-K-JQfVKtWj-2oxlO6YGT0uAA3DNTIL_uL9H_A=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - ESCOCIA HD 
+https://lh3.googleusercontent.com/0eVWjay79-9jX4Pmf10yw3MJuvpGBX9-eYcEjn0bml7W-K-JQfVKtWj-2oxlO6YGT0uAA3DNTIL_uL9H_A=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - LETONIA SD
+https://lh3.googleusercontent.com/cXSUVxmTl2HPmNo-AotByVesujM_08G7kel6kLWpwnOp5dLeeSztCNBRNLsZY1wLKNignX0SZViWTYkDuw=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - LETONIA HD 
+https://lh3.googleusercontent.com/cXSUVxmTl2HPmNo-AotByVesujM_08G7kel6kLWpwnOp5dLeeSztCNBRNLsZY1wLKNignX0SZViWTYkDuw=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - TAILANDIA SD
+https://lh3.googleusercontent.com/dMnigGqr9Edxv-9EkwMj-UJtUQegPr-_ng3GMvFOVifvvXPOLaSwZw2PsWdv1HrQ69jGMXvpG-0AIBeZLQ=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - TAILANDIA HD 
+https://lh3.googleusercontent.com/dMnigGqr9Edxv-9EkwMj-UJtUQegPr-_ng3GMvFOVifvvXPOLaSwZw2PsWdv1HrQ69jGMXvpG-0AIBeZLQ=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - IRLANDA SD
+https://lh3.googleusercontent.com/D7aRtUFimBWFWMTTpBFgHI_jROGKaqp0UqOhf7hmtVAaiIViM-dD7OorE5nitJveeCjnBvO8ozZKrxmNIA=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - IRLANDA HD 
+https://lh3.googleusercontent.com/D7aRtUFimBWFWMTTpBFgHI_jROGKaqp0UqOhf7hmtVAaiIViM-dD7OorE5nitJveeCjnBvO8ozZKrxmNIA=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVES - EUROPA E ORIENTE MEDIO SD
+https://lh3.googleusercontent.com/R2wxSFRnZuP5gIAR9Aq6VyLIr6NnYpeG7uLD5bBoiuJzWFGokgZll-2MOX2k9IwEEzfrJ5qDXE5RBQQFGg=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVES - EUROPA E ORIENTE MEDIO HD 
+https://lh3.googleusercontent.com/R2wxSFRnZuP5gIAR9Aq6VyLIr6NnYpeG7uLD5bBoiuJzWFGokgZll-2MOX2k9IwEEzfrJ5qDXE5RBQQFGg=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - HOLLYWOOD E OREGON SD
+https://lh3.googleusercontent.com/9UvUPXSjC8H3AJ89NXIWll7pfJcsn9NXE-OPpfZmNelNkY7Rl6TayGOJW99bvQ4Ah2Vfk8kDX-JO8G8SLQ=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - HOLLYWOOD E OREGON HD 
+https://lh3.googleusercontent.com/9UvUPXSjC8H3AJ89NXIWll7pfJcsn9NXE-OPpfZmNelNkY7Rl6TayGOJW99bvQ4Ah2Vfk8kDX-JO8G8SLQ=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",RACING EXTINCTION - VIDA EM EXTINÇAO SD
+https://lh3.googleusercontent.com/UasRrPtEdSA7SmWQnHwHsQxtbReQWm6cReLPPTrwkoJrDYMapzQH101OpSN2lUjCt06znA0mIUdznfnlXA=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",RACING EXTINCTION - VIDA EM EXTINÇAO HD 
+https://lh3.googleusercontent.com/UasRrPtEdSA7SmWQnHwHsQxtbReQWm6cReLPPTrwkoJrDYMapzQH101OpSN2lUjCt06znA0mIUdznfnlXA=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",ROCK IN RIO 30 ANOS - DOCUMENTARIO SD
+https://lh3.googleusercontent.com/tnwYGg9F7KFDO88DDPmwFPgcmfkd6iz5WxiQUBNXPkVZw7gouioc7iW2c2T2eUQ8I16tF8Wz4AXsUTMGSg=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",ROCK IN RIO 30 ANOS - DOCUMENTARIO HD 
+https://lh3.googleusercontent.com/tnwYGg9F7KFDO88DDPmwFPgcmfkd6iz5WxiQUBNXPkVZw7gouioc7iW2c2T2eUQ8I16tF8Wz4AXsUTMGSg=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",SEXO NO MUNDO ANTIGO - EROTISMO NO EGITO SD
+https://lh3.googleusercontent.com/poqC6ervPpd4dwqdSjm1S3ELNyPLkFM7DFkTK0KDzfS_BC2RaQAjKgz6LZKPNmkDHz_ekCDM9k7EyFGR1g=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",SEXO NO MUNDO ANTIGO - EROTISMO NO EGITO HD 
+https://lh3.googleusercontent.com/poqC6ervPpd4dwqdSjm1S3ELNyPLkFM7DFkTK0KDzfS_BC2RaQAjKgz6LZKPNmkDHz_ekCDM9k7EyFGR1g=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",ACONTECEU VIROU MANCHETE - A HISTORIA DA REDE MANCHETE SD
+https://lh3.googleusercontent.com/ag-vS4Dls5GEMC-EmT2aDQSzwtuib7Nqihp7DQAA9pfdjWAg_-W0cvfptlLBKQLrZcjWkxI_IEVT2Juohw=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",ACONTECEU VIROU MANCHETE - A HISTORIA DA REDE MANCHETE HD 
+https://lh3.googleusercontent.com/ag-vS4Dls5GEMC-EmT2aDQSzwtuib7Nqihp7DQAA9pfdjWAg_-W0cvfptlLBKQLrZcjWkxI_IEVT2Juohw=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS PRISOES MAIS SEVERAS DA RUSSIA SD
+https://lh3.googleusercontent.com/dOxSNizpgFUsRG4FB-Er3INxiEHpFYYHsHYNcWt05eAVebB4eSA2fbzzjYTPVFTvIFqbA-WBergb5Zv1NA=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS PRISOES MAIS SEVERAS DA RUSSIA HD 
+https://lh3.googleusercontent.com/dOxSNizpgFUsRG4FB-Er3INxiEHpFYYHsHYNcWt05eAVebB4eSA2fbzzjYTPVFTvIFqbA-WBergb5Zv1NA=m22
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",MUMIAS EXTRATERRESTRES SD
+https://lh3.googleusercontent.com/Q6rnmj5vkw8qt-oHK1HZaJuZf8aELrQGIIU4btHuxODyQc9xbtw5mLD2sOsMdOcWAPXGwC7NfDJqFmSDe_rswLvD4YfqcgB3=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",MUMIAS EXTRATERRESTRES HD
+https://lh3.googleusercontent.com/Q6rnmj5vkw8qt-oHK1HZaJuZf8aELrQGIIU4btHuxODyQc9xbtw5mLD2sOsMdOcWAPXGwC7NfDJqFmSDe_rswLvD4YfqcgB3=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",NOSSA GUERRA MUNDIAL 01 SD
+https://lh3.googleusercontent.com/jf7iAzimkwJTzSwK-XKXvWlNrS_8Z1iD4369C0Z-MBAn8cLOYLe7LLUB59a6UcfvKP0KrNbidebwXKhJpykzwVhUiBe7VscR=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",NOSSA GUERRA MUNDIAL 01 HD
+https://lh3.googleusercontent.com/jf7iAzimkwJTzSwK-XKXvWlNrS_8Z1iD4369C0Z-MBAn8cLOYLe7LLUB59a6UcfvKP0KrNbidebwXKhJpykzwVhUiBe7VscR=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",NOSSA GUERRA MUNDIAL 02 SD
+https://lh3.googleusercontent.com/24Vnp5nzFOc85s2x2Cl0LGmtBqyAexMctfICKgmz9iEbq-Ah2pmrfwFmrVTVH5D6fM9I4rrDAO15ntL9gwNvO0TWdO9t3pCx=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",NOSSA GUERRA MUNDIAL 02 HD
+https://lh3.googleusercontent.com/24Vnp5nzFOc85s2x2Cl0LGmtBqyAexMctfICKgmz9iEbq-Ah2pmrfwFmrVTVH5D6fM9I4rrDAO15ntL9gwNvO0TWdO9t3pCx=m22 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",NOSSA GUERRA MUNDIAL 03 SD 
+https://lh3.googleusercontent.com/35B5jjo8NHAkpf_Fw41am2G_3OQgXOQF79OPvGEPE8CkPMXhv3nBVEHOMvCvbBIpmY9ANxOoE8f4WUij3ZiC2SZHTuIrI_Ln=m18 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",NOSSA GUERRA MUNDIAL 03 HD
+https://lh3.googleusercontent.com/35B5jjo8NHAkpf_Fw41am2G_3OQgXOQF79OPvGEPE8CkPMXhv3nBVEHOMvCvbBIpmY9ANxOoE8f4WUij3ZiC2SZHTuIrI_Ln=m22 
