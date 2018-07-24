@@ -1,156 +1,471 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onQTiwGNXr46bq2R39JIIAy26fu.jpg" group-title="Guerra",12 HERÓIS
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onQTiwGNXr46bq2R39JIIAy26fu.jpg" group-title="FILMES GUERRA",12 HERÓIS
 https://archive.org/download/Movies_201807/12%20Heróis.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYf02uVwiXdUEQVX9TuIizQIdHA.jpg" group-title="Drama",15H17 - TREM PARA PARIS
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYf02uVwiXdUEQVX9TuIizQIdHA.jpg" group-title="FILMES DRAMA",15H17 - TREM PARA PARIS
 https://archive.org/download/Movies_201807/15h17%20-%20Trem%20para%20Paris.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81RColr4rau6DZ7z9eMsksokcfk.jpg" group-title="Ação",211 - O GRANDE ASSALTO
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81RColr4rau6DZ7z9eMsksokcfk.jpg" group-title="FILMES AÇÃO",211 - O GRANDE ASSALTO
 https://archive.org/download/Movies_201807/211%20-%20O%20Grande%20Assalto.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c68Y5spjMirD081GMV6z29RtyEN.jpg" group-title="Terror",60 MINUTOS PARA MORRER
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c68Y5spjMirD081GMV6z29RtyEN.jpg" group-title="FILMES TERROR",60 MINUTOS PARA MORRER
 https://archive.org/download/Movies_201807/60%20Minutos%20para%20Morrer.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68ot38BwgfZjkIYRiuvXCtKDxCL.jpg" group-title="Animação",A ABELHINHA MAYA
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68ot38BwgfZjkIYRiuvXCtKDxCL.jpg" group-title="FILMES ANIMAÇÃO",A ABELHINHA MAYA
 https://archive.org/download/Movies_201807/A%20Abelhinha%20Maya.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9RZQKx4wXx6ew4cgFcdohV8iZN.jpg" group-title="Comédia",A BARRACA DO BEIJO
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9RZQKx4wXx6ew4cgFcdohV8iZN.jpg" group-title="FILMES COMÉDIA",A BARRACA DO BEIJO
 https://archive.org/download/Movies_201807/A%20Barraca%20do%20Beijo.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgP1VrDPxdfR1DUX3JMNrfajx4I.jpg" group-title="Comédia",A CULPA NÃO É DO CARMA
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgP1VrDPxdfR1DUX3JMNrfajx4I.jpg" group-title="FILMES COMÉDIA",A CULPA NÃO É DO CARMA
 https://archive.org/download/Movies_201807/A%20Culpa%20Não%20é%20do%20Carma.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kudgA66DV7q66eAyC9h6PVIiAPj.jpg" group-title="Comédia",A ESCALA – AMIZADE EM SEGUNDO LUGAR
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kudgA66DV7q66eAyC9h6PVIiAPj.jpg" group-title="FILMES COMÉDIA",A ESCALA – AMIZADE EM SEGUNDO LUGAR
 https://archive.org/download/Movies_201807/A%20Escala%20–%20Amizade%20Em%20Segundo%20Lugar.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg" group-title="Drama",A FORMA DA ÁGUA
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg" group-title="FILMES DRAMA",A FORMA DA ÁGUA
 https://archive.org/download/Movies_201807/A%20Forma%20da%20Água.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nt7sO8XjeTOrUhdcfnIPsdPFeLk.jpg" group-title="Drama",A GRANDE JOGADA
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nt7sO8XjeTOrUhdcfnIPsdPFeLk.jpg" group-title="FILMES DRAMA",A GRANDE JOGADA
 https://archive.org/download/Movies_201807/A%20Grande%20Jogada.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOtoPe5T0WEBTUPrgEKvfCgPicb.jpg" group-title="Terror",A MALDIÇÃO DA CASA WINCHESTER
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOtoPe5T0WEBTUPrgEKvfCgPicb.jpg" group-title="FILMES TERROR",A MALDIÇÃO DA CASA WINCHESTER
 https://archive.org/download/Movies_201807/A%20Maldição%20da%20Casa%20Winchester.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDJD1L2L4Hy1APzSiZcEJDjvgAC.jpg" group-title="",A MELHOR ESCOLHA
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDJD1L2L4Hy1APzSiZcEJDjvgAC.jpg" group-title="FILMES DRAMA",A MELHOR ESCOLHA
 https://archive.org/download/Movies_201807/A%20Melhor%20Escolha.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXHapFkuxLEq9ZILxw1Vbarqxb4.jpg" group-title="Drama",A MÚSICA DO SILÊNCIO
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXHapFkuxLEq9ZILxw1Vbarqxb4.jpg" group-title="FILMES DRAMA",A MÚSICA DO SILÊNCIO
 https://archive.org/download/Movies_201807/A%20Música%20do%20Silêncio.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qexDkVYcoJMP9YguYw3ej1Xud3U.jpg" group-title="Animação",A ORIGEM DOS GUARDIÕES
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qexDkVYcoJMP9YguYw3ej1Xud3U.jpg" group-title="FILMES ANIMAÇÃO",A ORIGEM DOS GUARDIÕES
 https://archive.org/download/Movies_201807/A%20Origem%20dos%20Guardiões.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljktBZh0wM8yVZcgMt3i43sjkdy.jpg" group-title="Animação",A PRINCESA ENCANTADA - UM MISTERIO REAL
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljktBZh0wM8yVZcgMt3i43sjkdy.jpg" group-title="FILMES ANIMAÇÃO",A PRINCESA ENCANTADA - UM MISTERIO REAL
 https://archive.org/download/Movies_201807/A%20Princesa%20Encantada%20-%20Um%20Misterio%20Real.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abHDJoNxU4N1Fzm43CP7EMu4tEb.jpg" group-title="Ficção científica",A REPARTIÇÃO DO TEMPO
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abHDJoNxU4N1Fzm43CP7EMu4tEb.jpg" group-title="FILMES FICÇÃO CIENTÍFICA",A REPARTIÇÃO DO TEMPO
 https://archive.org/download/Movies_201807/A%20Repartição%20do%20Tempo.mp4
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",NATGEO : MEGA FABRICAS - CERVEJARIA CORONA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",NATGEO : MEGA FABRICAS - CERVEJARIA CORONA
 https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiWTlEbnhhLWRvT00?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",NATGEO : MEGA FABRICAS - CERVEJA GUINNESS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",NATGEO : MEGA FABRICAS - CERVEJA GUINNESS
 https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiM0JWamtNcjdSZXM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - ASTRONOMIA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",AS 100 MAIORES DESCOBERTAS DA HISTORIA - ASTRONOMIA 
 https://lh3.googleusercontent.com/XyVZy5KOwMh98_4xOt_EmVw0VwmW_xCOaZLltEeZ4aMUyqSIw9-lU2VACKJT-oB3cNjyevQVUgVhF60FLuvmVgSmvsJJ10W8mw=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - BIOLOGIA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",AS 100 MAIORES DESCOBERTAS DA HISTORIA - BIOLOGIA 
 https://lh3.googleusercontent.com/G1t_WjBZgvTwHhDOhbpnML9mQ0tc9E8z18-3VWRlFwfXZGIoKs5EyEP8I6CqhFlYg_gALs7GHiEOIaCjAl32TiCQEbYeYqvJtg=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - FISICA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",AS 100 MAIORES DESCOBERTAS DA HISTORIA - FISICA 
 https://lh3.googleusercontent.com/7y2jtXP3O_4iDSjteoLyI3tZlN7CB9TUCl65yPFzuXCNtLbNKG7rBQse4YGBXaKk3m0bu3tiyOMhGFHZKD122xIkLpDDTVNPCA=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - FISICA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",AS 100 MAIORES DESCOBERTAS DA HISTORIA - FISICA
 https://lh3.googleusercontent.com/7y2jtXP3O_4iDSjteoLyI3tZlN7CB9TUCl65yPFzuXCNtLbNKG7rBQse4YGBXaKk3m0bu3tiyOMhGFHZKD122xIkLpDDTVNPCA=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - GENETICA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",AS 100 MAIORES DESCOBERTAS DA HISTORIA - GENETICA 
 https://lh3.googleusercontent.com/d8SZrRvLUBwjX6KgU1RrhdmtP4z220USFzEFLvJdXMdkyeXPyXBhhJKm5Cq7c9Ba-7g97mkTyKB9C909a5HhRicZAAc3NdsB6g=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - MEDICINA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",AS 100 MAIORES DESCOBERTAS DA HISTORIA - MEDICINA 
 https://lh3.googleusercontent.com/0oYsbhe1QZNKsX6SJB0WcC_UkS9wU0TtzLOmKpDYKKoyqowxFcPFqApNsafVinkexj06D1K0y8zqrdZXJjajYt14-DQmGAdZOA=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - QUIMICA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",AS 100 MAIORES DESCOBERTAS DA HISTORIA - QUIMICA 
 https://lh3.googleusercontent.com/OqhC2s4FoaWv7U6HQEd_9Z4Uclh4porFzxuZThf6ByStQJoSRm1ZDHfgzP8RupQCCBz_craD9yjelimJrbvoGPmTcbhqQUl6TQ=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - QUIMICA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",AS 100 MAIORES DESCOBERTAS DA HISTORIA - QUIMICA
 https://lh3.googleusercontent.com/OqhC2s4FoaWv7U6HQEd_9Z4Uclh4porFzxuZThf6ByStQJoSRm1ZDHfgzP8RupQCCBz_craD9yjelimJrbvoGPmTcbhqQUl6TQ=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS 100 MAIORES DESCOBERTAS DA HISTORIA - EPISODIO FINAL 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",AS 100 MAIORES DESCOBERTAS DA HISTORIA - EPISODIO FINAL 
 https://lh3.googleusercontent.com/QCC9vmxV0KGurcdkGsfNXQPFdZ9Gqf31ZwIajSPuIgqfnpBG5xKR6Ls_bTBZ3Ab8qC6fP6PRszi6OBJO-qq645hSxeNcbgEmaA=m18
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",TITANIC - MISTERIO RESOLVIDO SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",TITANIC - MISTERIO RESOLVIDO SD
 https://lh3.googleusercontent.com/lwAAwICj8CL_HePxtNWNazvGku8hru32iYCGPYhvx44mbiPgjnQl5kARy_9HeFPwmVGUO4S0HhG6Zg=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",TITANIC - MISTERIO RESOLVIDO HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",TITANIC - MISTERIO RESOLVIDO HD 
 https://lh3.googleusercontent.com/lwAAwICj8CL_HePxtNWNazvGku8hru32iYCGPYhvx44mbiPgjnQl5kARy_9HeFPwmVGUO4S0HhG6Zg=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",OBJETIVO BIN LADEN SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",OBJETIVO BIN LADEN SD
 https://lh3.googleusercontent.com/wt7ui4sd3qP55-xoydszZxaRS4ehU_Mgx8Y5-bMTUWoyKB7WUGvkB66lGgW8shD0KXf6cPWSqj9CPw=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",OBJETIVO BIN LADEN HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",OBJETIVO BIN LADEN HD 
 https://lh3.googleusercontent.com/wt7ui4sd3qP55-xoydszZxaRS4ehU_Mgx8Y5-bMTUWoyKB7WUGvkB66lGgW8shD0KXf6cPWSqj9CPw=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",MISTERIO DO TRIANGULO DAS BERMUDAS SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",MISTERIO DO TRIANGULO DAS BERMUDAS SD
 https://lh3.googleusercontent.com/t5QeGkowqch2N3a21kJWt3j5QIj9iOsKUayKlJELkF0Tk-lQIMgFaYVBCqAl5LFAYIZt63q0y2M6_w=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",MISTERIO DO TRIANGULO DAS BERMUDAS HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",MISTERIO DO TRIANGULO DAS BERMUDAS HD 
 https://lh3.googleusercontent.com/t5QeGkowqch2N3a21kJWt3j5QIj9iOsKUayKlJELkF0Tk-lQIMgFaYVBCqAl5LFAYIZt63q0y2M6_w=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - DUBAI SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - DUBAI SD
 https://lh3.googleusercontent.com/t9Zzo-mt072h12kz0T9doAckmqsgBb91qfCiqoNK7b6gg4QiRCvKi06VXH1lqPbKt_12pE4F6cnMwVwXOw=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - DUBAI HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - DUBAI HD 
 https://lh3.googleusercontent.com/t9Zzo-mt072h12kz0T9doAckmqsgBb91qfCiqoNK7b6gg4QiRCvKi06VXH1lqPbKt_12pE4F6cnMwVwXOw=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - AUSTRIA SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - AUSTRIA SD
 https://lh3.googleusercontent.com/ezcinnOVUPU4CZnyKHZZ4SGta0roxqmP5vWZ5baur2jQmB7byt8-Mi_q615w8VZ1hjkri7shd_A1lKdPfg=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - AUSTRIA HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - AUSTRIA HD 
 https://lh3.googleusercontent.com/ezcinnOVUPU4CZnyKHZZ4SGta0roxqmP5vWZ5baur2jQmB7byt8-Mi_q615w8VZ1hjkri7shd_A1lKdPfg=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - CARIBE SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - CARIBE SD
 https://lh3.googleusercontent.com/x_DOAxXVyGLr9Ro7eQeKiJWnbTfNTHmeGRSek--G62H4y6aJEuuRzl2yJOQy72ozIqbzn9S_S2ILXFWBVA=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - CARIBE HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - CARIBE HD 
 https://lh3.googleusercontent.com/x_DOAxXVyGLr9Ro7eQeKiJWnbTfNTHmeGRSek--G62H4y6aJEuuRzl2yJOQy72ozIqbzn9S_S2ILXFWBVA=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - ILHAS CAYMAN SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - ILHAS CAYMAN SD
 https://lh3.googleusercontent.com/VJIaa7cvqcvDU3GNrx-vXxJNn2BcT0OaoHf2CLHUG_AJKEK042801WKKzHIKFCdTNeBZJEzDyKvY9ar5Vg=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - ILHAS CAYMAN HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - ILHAS CAYMAN HD 
 https://lh3.googleusercontent.com/VJIaa7cvqcvDU3GNrx-vXxJNn2BcT0OaoHf2CLHUG_AJKEK042801WKKzHIKFCdTNeBZJEzDyKvY9ar5Vg=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - ESCANDINAVIA SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - ESCANDINAVIA SD
 https://lh3.googleusercontent.com/3gx6ZdsmSjWtzmn1T_VWGMQEeGp8db9hJPKb468opubJ2Ce4gMTIBVFb1apRJOWzgJvj1EJpTc-j0vfCkA=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - ESCANDINAVIA HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - ESCANDINAVIA HD 
 https://lh3.googleusercontent.com/3gx6ZdsmSjWtzmn1T_VWGMQEeGp8db9hJPKb468opubJ2Ce4gMTIBVFb1apRJOWzgJvj1EJpTc-j0vfCkA=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - MADAGASCAR SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - MADAGASCAR SD
 https://lh3.googleusercontent.com/3pB5mbNfpgCF2W52pBCRWO2R75dMlKL5mBqs6d7jwTkWnpQfS18mMpwnG8gMo7W8_TJovoBaJ9VawhysXQ=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - MADAGASCAR HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - MADAGASCAR HD 
 https://lh3.googleusercontent.com/3pB5mbNfpgCF2W52pBCRWO2R75dMlKL5mBqs6d7jwTkWnpQfS18mMpwnG8gMo7W8_TJovoBaJ9VawhysXQ=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - ESCOCIA SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - ESCOCIA SD
 https://lh3.googleusercontent.com/0eVWjay79-9jX4Pmf10yw3MJuvpGBX9-eYcEjn0bml7W-K-JQfVKtWj-2oxlO6YGT0uAA3DNTIL_uL9H_A=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - ESCOCIA HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - ESCOCIA HD 
 https://lh3.googleusercontent.com/0eVWjay79-9jX4Pmf10yw3MJuvpGBX9-eYcEjn0bml7W-K-JQfVKtWj-2oxlO6YGT0uAA3DNTIL_uL9H_A=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - LETONIA SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - LETONIA SD
 https://lh3.googleusercontent.com/cXSUVxmTl2HPmNo-AotByVesujM_08G7kel6kLWpwnOp5dLeeSztCNBRNLsZY1wLKNignX0SZViWTYkDuw=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - LETONIA HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - LETONIA HD 
 https://lh3.googleusercontent.com/cXSUVxmTl2HPmNo-AotByVesujM_08G7kel6kLWpwnOp5dLeeSztCNBRNLsZY1wLKNignX0SZViWTYkDuw=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - TAILANDIA SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - TAILANDIA SD
 https://lh3.googleusercontent.com/dMnigGqr9Edxv-9EkwMj-UJtUQegPr-_ng3GMvFOVifvvXPOLaSwZw2PsWdv1HrQ69jGMXvpG-0AIBeZLQ=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - TAILANDIA HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - TAILANDIA HD 
 https://lh3.googleusercontent.com/dMnigGqr9Edxv-9EkwMj-UJtUQegPr-_ng3GMvFOVifvvXPOLaSwZw2PsWdv1HrQ69jGMXvpG-0AIBeZLQ=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - IRLANDA SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - IRLANDA SD
 https://lh3.googleusercontent.com/D7aRtUFimBWFWMTTpBFgHI_jROGKaqp0UqOhf7hmtVAaiIViM-dD7OorE5nitJveeCjnBvO8ozZKrxmNIA=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - IRLANDA HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - IRLANDA HD 
 https://lh3.googleusercontent.com/D7aRtUFimBWFWMTTpBFgHI_jROGKaqp0UqOhf7hmtVAaiIViM-dD7OorE5nitJveeCjnBvO8ozZKrxmNIA=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVES - EUROPA E ORIENTE MEDIO SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVES - EUROPA E ORIENTE MEDIO SD
 https://lh3.googleusercontent.com/R2wxSFRnZuP5gIAR9Aq6VyLIr6NnYpeG7uLD5bBoiuJzWFGokgZll-2MOX2k9IwEEzfrJ5qDXE5RBQQFGg=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVES - EUROPA E ORIENTE MEDIO HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVES - EUROPA E ORIENTE MEDIO HD 
 https://lh3.googleusercontent.com/R2wxSFRnZuP5gIAR9Aq6VyLIr6NnYpeG7uLD5bBoiuJzWFGokgZll-2MOX2k9IwEEzfrJ5qDXE5RBQQFGg=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - HOLLYWOOD E OREGON SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - HOLLYWOOD E OREGON SD
 https://lh3.googleusercontent.com/9UvUPXSjC8H3AJ89NXIWll7pfJcsn9NXE-OPpfZmNelNkY7Rl6TayGOJW99bvQ4Ah2Vfk8kDX-JO8G8SLQ=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",LUGARES INCRIVEIS - HOLLYWOOD E OREGON HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",LUGARES INCRIVEIS - HOLLYWOOD E OREGON HD 
 https://lh3.googleusercontent.com/9UvUPXSjC8H3AJ89NXIWll7pfJcsn9NXE-OPpfZmNelNkY7Rl6TayGOJW99bvQ4Ah2Vfk8kDX-JO8G8SLQ=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",RACING EXTINCTION - VIDA EM EXTINÇAO SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",RACING EXTINCTION - VIDA EM EXTINÇAO SD
 https://lh3.googleusercontent.com/UasRrPtEdSA7SmWQnHwHsQxtbReQWm6cReLPPTrwkoJrDYMapzQH101OpSN2lUjCt06znA0mIUdznfnlXA=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",RACING EXTINCTION - VIDA EM EXTINÇAO HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",RACING EXTINCTION - VIDA EM EXTINÇAO HD 
 https://lh3.googleusercontent.com/UasRrPtEdSA7SmWQnHwHsQxtbReQWm6cReLPPTrwkoJrDYMapzQH101OpSN2lUjCt06znA0mIUdznfnlXA=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",ROCK IN RIO 30 ANOS - DOCUMENTARIO SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",ROCK IN RIO 30 ANOS - DOCUMENTARIO SD
 https://lh3.googleusercontent.com/tnwYGg9F7KFDO88DDPmwFPgcmfkd6iz5WxiQUBNXPkVZw7gouioc7iW2c2T2eUQ8I16tF8Wz4AXsUTMGSg=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",ROCK IN RIO 30 ANOS - DOCUMENTARIO HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",ROCK IN RIO 30 ANOS - DOCUMENTARIO HD 
 https://lh3.googleusercontent.com/tnwYGg9F7KFDO88DDPmwFPgcmfkd6iz5WxiQUBNXPkVZw7gouioc7iW2c2T2eUQ8I16tF8Wz4AXsUTMGSg=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",SEXO NO MUNDO ANTIGO - EROTISMO NO EGITO SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",SEXO NO MUNDO ANTIGO - EROTISMO NO EGITO SD
 https://lh3.googleusercontent.com/poqC6ervPpd4dwqdSjm1S3ELNyPLkFM7DFkTK0KDzfS_BC2RaQAjKgz6LZKPNmkDHz_ekCDM9k7EyFGR1g=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",SEXO NO MUNDO ANTIGO - EROTISMO NO EGITO HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",SEXO NO MUNDO ANTIGO - EROTISMO NO EGITO HD 
 https://lh3.googleusercontent.com/poqC6ervPpd4dwqdSjm1S3ELNyPLkFM7DFkTK0KDzfS_BC2RaQAjKgz6LZKPNmkDHz_ekCDM9k7EyFGR1g=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",ACONTECEU VIROU MANCHETE - A HISTORIA DA REDE MANCHETE SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",ACONTECEU VIROU MANCHETE - A HISTORIA DA REDE MANCHETE SD
 https://lh3.googleusercontent.com/ag-vS4Dls5GEMC-EmT2aDQSzwtuib7Nqihp7DQAA9pfdjWAg_-W0cvfptlLBKQLrZcjWkxI_IEVT2Juohw=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",ACONTECEU VIROU MANCHETE - A HISTORIA DA REDE MANCHETE HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",ACONTECEU VIROU MANCHETE - A HISTORIA DA REDE MANCHETE HD 
 https://lh3.googleusercontent.com/ag-vS4Dls5GEMC-EmT2aDQSzwtuib7Nqihp7DQAA9pfdjWAg_-W0cvfptlLBKQLrZcjWkxI_IEVT2Juohw=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS PRISOES MAIS SEVERAS DA RUSSIA SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",AS PRISOES MAIS SEVERAS DA RUSSIA SD
 https://lh3.googleusercontent.com/dOxSNizpgFUsRG4FB-Er3INxiEHpFYYHsHYNcWt05eAVebB4eSA2fbzzjYTPVFTvIFqbA-WBergb5Zv1NA=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",AS PRISOES MAIS SEVERAS DA RUSSIA HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",AS PRISOES MAIS SEVERAS DA RUSSIA HD 
 https://lh3.googleusercontent.com/dOxSNizpgFUsRG4FB-Er3INxiEHpFYYHsHYNcWt05eAVebB4eSA2fbzzjYTPVFTvIFqbA-WBergb5Zv1NA=m22
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",MUMIAS EXTRATERRESTRES SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",MUMIAS EXTRATERRESTRES SD
 https://lh3.googleusercontent.com/Q6rnmj5vkw8qt-oHK1HZaJuZf8aELrQGIIU4btHuxODyQc9xbtw5mLD2sOsMdOcWAPXGwC7NfDJqFmSDe_rswLvD4YfqcgB3=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",MUMIAS EXTRATERRESTRES HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",MUMIAS EXTRATERRESTRES HD
 https://lh3.googleusercontent.com/Q6rnmj5vkw8qt-oHK1HZaJuZf8aELrQGIIU4btHuxODyQc9xbtw5mLD2sOsMdOcWAPXGwC7NfDJqFmSDe_rswLvD4YfqcgB3=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",NOSSA GUERRA MUNDIAL 01 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",NOSSA GUERRA MUNDIAL 01 SD
 https://lh3.googleusercontent.com/jf7iAzimkwJTzSwK-XKXvWlNrS_8Z1iD4369C0Z-MBAn8cLOYLe7LLUB59a6UcfvKP0KrNbidebwXKhJpykzwVhUiBe7VscR=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",NOSSA GUERRA MUNDIAL 01 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",NOSSA GUERRA MUNDIAL 01 HD
 https://lh3.googleusercontent.com/jf7iAzimkwJTzSwK-XKXvWlNrS_8Z1iD4369C0Z-MBAn8cLOYLe7LLUB59a6UcfvKP0KrNbidebwXKhJpykzwVhUiBe7VscR=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",NOSSA GUERRA MUNDIAL 02 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",NOSSA GUERRA MUNDIAL 02 SD
 https://lh3.googleusercontent.com/24Vnp5nzFOc85s2x2Cl0LGmtBqyAexMctfICKgmz9iEbq-Ah2pmrfwFmrVTVH5D6fM9I4rrDAO15ntL9gwNvO0TWdO9t3pCx=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",NOSSA GUERRA MUNDIAL 02 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",NOSSA GUERRA MUNDIAL 02 HD
 https://lh3.googleusercontent.com/24Vnp5nzFOc85s2x2Cl0LGmtBqyAexMctfICKgmz9iEbq-Ah2pmrfwFmrVTVH5D6fM9I4rrDAO15ntL9gwNvO0TWdO9t3pCx=m22 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",NOSSA GUERRA MUNDIAL 03 SD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",NOSSA GUERRA MUNDIAL 03 SD 
 https://lh3.googleusercontent.com/35B5jjo8NHAkpf_Fw41am2G_3OQgXOQF79OPvGEPE8CkPMXhv3nBVEHOMvCvbBIpmY9ANxOoE8f4WUij3ZiC2SZHTuIrI_Ln=m18 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q9FXE1Y.gif" group-title="DOCUMENTÁRIO",NOSSA GUERRA MUNDIAL 03 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZs292A.jpg" group-title="DOCUMENTÁRIOS",NOSSA GUERRA MUNDIAL 03 HD
 https://lh3.googleusercontent.com/35B5jjo8NHAkpf_Fw41am2G_3OQgXOQF79OPvGEPE8CkPMXhv3nBVEHOMvCvbBIpmY9ANxOoE8f4WUij3ZiC2SZHTuIrI_Ln=m22 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA TORNEIO GALÁCTICO SE01 EP 01
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiQTdZNEswV3ZXY3M?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA TORNEIO GALÁCTICO SE01 EP 02
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiSE5vZlU2a2U3dEU?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA TORNEIO GALÁCTICO SE01 EP 03
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiOUx0cWRYb0xMUVU?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA TORNEIO GALÁCTICO SE01 EP 04
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiSUg5MkxOenhxYk0?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA TORNEIO GALÁCTICO SE01 EP 05
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiRTk4NTRyVVlPVHc?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA TORNEIO GALÁCTICO SE01 EP 06
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiblFoaEpDRFJ2NE0?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA TORNEIO GALÁCTICO SE01 EP 07
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiWjd5MXdOQWlxeWs?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA TORNEIO GALÁCTICO SE01 EP 08
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiaFhaTWhTQWNPUWs?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 09
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tia1BseTh3WURWQ0k?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 10
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiYmVvSU9WdzQ0Zms?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 12
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiOEZ2OFJGR29BSGs?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 13
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tidTRhUHdnZU9ZNEE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 14
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tidnNRaGlxcmVqaTQ?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 15
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiU3BOS004ZE5hV3c?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 16
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiZTdoODFDSmVGMVU?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 17
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6ticnFfUkJJMFNhLXc?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 18
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiNmY3UlpjS2lPUUU?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 19
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiVWdPUTJCaFZoS0k?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 20
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiWGc4QlBwTGVyOFk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 21
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiVE9EYXR3S2N3eDQ?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 22
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiMXgwNlJiUno0T0U?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 23
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tic3ktR0JPdGpwaDQ?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 24
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiYm1YaVAwcFl4RTA?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 25
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiWmRCek4wNVVoOGM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 26
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tielN1NFB5aE5NMDg?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 27
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiWnAwRVlhVXRDU00?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 28
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tic2lpM0ZFWml6a0k?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 29
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiRDZfNWQ1TE5lNDQ?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 30
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tia3BQVjN2am81ejA?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 31
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiempDN2VmZXk2Nms?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 32
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiZnM2b0RZWnlrU3c?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 33
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiTU9PSjNiUVJHVFE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 34
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tidFotUjU1Nmt4Zm8?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 35
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiTXZnUlZ1VnFobjA?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 36
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiV0dpRWdvLWZqZlU?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 37
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiZzcxV0NxbXc5dkU?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 38
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiMWNkU3FVSXJtX0U?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA CAVALEIROS DE PRATA SE01 EP 39
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiVWJZczNsbXNmZkk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 40
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiUU42NDhfQ0lPcHM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 41
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiLWpfLXhUV3VlQk0?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 42
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tidHJVX3RoV2lFcG8?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 43
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiOXhvN1lBazV4anM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 44
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiWDVEa2ROX19zMFk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 45
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tibHFmT21DNDZwZ2s?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 46
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiT0xxamxtYU9xckk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 47
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiODJhMFBvY0JicGM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 48
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiaVNQaFZoZXNPM0E?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 49
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tidEdfbkFia3J1SUk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 50
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiaXhwdkdPaVZGbUE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 51
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tibXdhZUZZTEY5OHc?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 52
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiY3JoX1FYbEhFSHM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 53
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiRll0MXNVRjhIV00?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 54
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tidWtMdWhNYkV3bGs?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 55
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiSVF1ZmtCaFBXbDQ?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 56
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiOHpTQkgzUFU3Zm8?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 57
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiMk56Rkp3a2RDd28?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 58
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiV1JFQXAzUDB3cUk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 59
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tibU5DV2puZ3JwcjA?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 60
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiT2ptM2xQUGh6REk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 61
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiTzdMenNqUnpudG8?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 62
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tibFJmWHJDLXk3NjQ?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 63
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tibUhyM0U4QkFmaUU?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 64
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiWXRaUTlCTGJyMzg?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 65
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiMEJUWlJjQi1La2M?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 66
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tidl9vbWRqaWJCRjQ?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 67
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tianYzX3FUbDVEN3c?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 68
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiM0ZKV21md1NGeHc?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 69
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiSVVCZkFSaUYzWXM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 70
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tia1JuMml6cnNPSFE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 71
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6ticDBsY1BDZEZmX28?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 72
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiZ3R5QzVvak1KUkk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DOZE CASAS SE01 EP 73
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiY1JhbVlmMC1yd1E?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 74
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiM2MzeWdwOFNSdE0?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 75
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiNlpobktUVHVIVm8?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 76
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tieU1Iakk1alp4X2M?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 77
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiMTJ4eHowcVJHbTQ?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 78
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiaUNLQ3pENXh1Zk0?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 79
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiM0NGWmZGSzRiOVk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 80
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiQlNESWhfZVVoWVk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 81
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiU1FVQ1dwcW1KTTQ?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 82
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiMmd3U0tNUHV2Tzg?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 83
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiZzg5SHhhTmVzTk0?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 84
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiRmd0Q1RYbXpMeVU?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 85
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiZkpVLVNPc0w2U1E?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 86
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tib0pBbFVjejhyNEk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 87
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiZFVtNUdLTGhuWkk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 88
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiRmRFY1lyUXV6VjA?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 89
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiT2NHcGFYS1dfZ1k?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 90
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tibnk1YWpwR0xWUGc?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 91
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiOVlLZmhyX1ZzZ0k?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 92
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiVnFOZXRTSFZ4cjg?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 93
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiZW9lbWgzSFkwc28?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 94
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiV2VnSEVPdEphNUk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 95
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiZDZ6VDNNTnJNdnM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 96
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiajZpQTRnWWFZaHc?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 97
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiMDVaYnhGVVhLN28?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 98
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tibWhUQ2MzcklKSjg?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA ASGARD SE01 EP 99
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiLWdwYWJQT3Z6M3M?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON SE01 EP 100
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiU3ZpMUdkNTBfZHM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON SE01 EP 101
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiQjFaZTF0ZGxMU0U?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON SE01 EP 102
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiYnVXdXNwTE9KRmc?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON SE01 EP 103
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiMVV1X1VtUU9HdEE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON SE01 EP 104
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6ticVJlY2hyVmdkcFk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON SE01 EP 105
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tibjk3eWFTaDFrT3c?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON SE01 EP 106
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tidU9KTXBtVGdFR3c?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON SE01 EP 107
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiY3I4UlgtRkhVeUk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON SE01 EP 108
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiMVJ2eWpQUDR4ckU?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON SE01 EP 109
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tibE1xdDY5U0JEaUU?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON SE01 EP 110
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tid04zQ3UwaXFxSDg?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON SE01 EP 111
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiNHo2MzRBWFdWVG8?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON SE01 EP 112
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiMjdiaE5mallRaEk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON SE01 EP 113
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiTUhfSFA1TWg2aEk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON SE01 EP 114
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiQ3JBU0lpakFVeU0?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA HADES - SANTUÁRIO SE01 EP 115
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiNUc2N3EyampKcU0?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA HADES - SANTUÁRIO SE01 EP 116
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiU0Z3TE9ZU2ZXNDA?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA HADES - SANTUÁRIO SE01 EP 117
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6ticTk2TmEtb0xkVHM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA HADES - SANTUÁRIO SE01 EP 118
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiRWtpTVJSMlpVSms?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA HADES - SANTUÁRIO SE01 EP 119
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tieEN0N2V6Wi1hMlk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA HADES - SANTUÁRIO SE01 EP 120
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tialNiUVVTcVNvNHM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA HADES - SANTUÁRIO SE01 EP 121
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiZGh0aERoTDIyVEE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA HADES - SANTUÁRIO SE01 EP 122
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tid3FSVVNaUVdUZ28?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA HADES - SANTUÁRIO SE01 EP 123
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiU25wUnI5R0huSlE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA HADES - SANTUÁRIO SE01 EP 124
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiWE1meGlHSFo4MUE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA HADES - SANTUÁRIO SE01 EP 125
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiVi00ZkNqUVVYQVk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA HADES - SANTUÁRIO SE01 EP 126
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiR2tXOERBUVRWWVE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO - SAGA HADES - SANTUÁRIO SE01 EP 127
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiVTVlQ3pBVGVKaDg?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA - HADES - INFERNO SE01 EP 128
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiZzNLVkV3aEktcnM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA - HADES - INFERNO SE01 EP 129
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiNzdIazR0N3Eyc3c?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA - HADES - INFERNO SE01 EP 130
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiMjJqU3RlSTN0RnM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA - HADES - INFERNO SE01 EP 131
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiVmpZR05wT3NrSTA?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA - HADES - INFERNO SE01 EP 132
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiRXh2YlJqbFp5LTA?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA - HADES - INFERNO SE01 EP 133
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiWk9wR1B3VERHWHM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA - HADES - INFERNO SE01 EP 134
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tibFhZMkpGTEJFMVU?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA - HADES - INFERNO SE01 EP 135
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tidEF3M2dMZE5fakU?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA - HADES - INFERNO SE01 EP 136
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiQVhzeHZ1ZVpMNnM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA - HADES - INFERNO SE01 EP 137
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiaVAyWlY2QmJ5Njg?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA - HADES - INFERNO SE01 EP 138
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiS2pKbjRzdTBoNEE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA - HADES - INFERNO SE01 EP 139
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiRFg0Y2hqSkJvb1U?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA SE01 EP 140
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6ticTMxSVhULXJPcVE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA SE01 EP 141
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiTjFneDZXZUpkWlE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA SE01 EP 142
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiUlRmRlk4MlZENXM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA SE01 EP 143
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiakNrUTdmSjNCUms?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA SE01 EP 144
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiM2pEZUthcnZmeWM?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhtiYYbob8saEUFWle3aWgVY28M.jpg" group-title="ANIMES",OS CAVALEIROS DO ZODÍACO SAGA SE01 EP 145
+https://www.googleapis.com/drive/v3/files/0B5mfrkDqK6tiN3IzT3lZZzV1dzg?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9ixRllvnzpiDzu2r0e60U4aS8h.jpg" group-title="SERIADOS",3% SE01 EP01
+https://www.googleapis.com/drive/v3/files/0B_tYo6LHpVVgMm1EckVOeG9wd2M?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9ixRllvnzpiDzu2r0e60U4aS8h.jpg" group-title="SERIADOS",3% SE01 EP02
+https://www.googleapis.com/drive/v3/files/0B_tYo6LHpVVgUXF3VVhraVZUMUE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9ixRllvnzpiDzu2r0e60U4aS8h.jpg" group-title="SERIADOS",3% SE01 EP03
+https://www.googleapis.com/drive/v3/files/0B_tYo6LHpVVgcjF5aVhGOHRLTkk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9ixRllvnzpiDzu2r0e60U4aS8h.jpg" group-title="SERIADOS",3% SE01 EP04
+https://www.googleapis.com/drive/v3/files/0B_tYo6LHpVVgSVRoWFhNSDNuUnc?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9ixRllvnzpiDzu2r0e60U4aS8h.jpg" group-title="SERIADOS",3% SE01 EP05
+https://www.googleapis.com/drive/v3/files/0B_tYo6LHpVVgT3l6ZUhTT0pJWEU?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9ixRllvnzpiDzu2r0e60U4aS8h.jpg" group-title="SERIADOS",3% SE01 EP06
+https://www.googleapis.com/drive/v3/files/0B_tYo6LHpVVgTHM1QWhFOXY0Zmc?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9ixRllvnzpiDzu2r0e60U4aS8h.jpg" group-title="SERIADOS",3% SE01 EP07
+https://www.googleapis.com/drive/v3/files/0B_tYo6LHpVVgZmMycVFOdTZ5NGc?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9ixRllvnzpiDzu2r0e60U4aS8h.jpg" group-title="SERIADOS",3% SE01 EP08
+https://www.googleapis.com/drive/v3/files/0B_tYo6LHpVVgMFY5NC1WTGRLQ1U?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
